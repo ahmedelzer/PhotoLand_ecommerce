@@ -1,5 +1,3 @@
-# PhotoLand_ecommerce
-
 # Build and Deploy a Modern Fullstack React JS E-commerce App & Strapi &Tailwind CSS
 
 ### [Live Site](https://photoland-imazing.surge.sh/)
